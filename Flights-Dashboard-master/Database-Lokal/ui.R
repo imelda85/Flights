@@ -46,7 +46,7 @@ ui <- dashboardPage(title = "www.imeldasianturi.com",
         actionLink("remove", icon = icon("sync-alt"),"Remove detail tabs"),
         menuItem("Source Code", icon = icon("github"), href = "https://github.com/imelda85/Flights"),
         menuItem("About Me", icon = icon("linkedin"), href = "https://www.linkedin.com/in/imelda-sianturi-331675192/"),
-        menuItem("Video", icon = icon("youtube"), href = "")
+        menuItem("Video", icon = icon("youtube"), href = "https://www.youtube.com/watch?v=ASQoO2cS_Lk")
         )
       ),
       
